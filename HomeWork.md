@@ -1,6 +1,6 @@
 ## Homework
 
-Welcome! The main content of the assignment is in this file, if you want to back to README.md, please [click here](README.md).
+if you want to back to README.md, please [click here](README.md).
 
 #### OK, let's start!
 
@@ -14,10 +14,11 @@ If you want to search something, [this external web](https://www.baidu.com/) may
 If you want to go back to homepage, you can click **"click here"** which is on the first paragraph.
 
 ![pic1](picture1.png "this is my desktop")
+![pic2](http://img-arch.pconline.com.cn/images/upload/upc/tx/softbbs/1003/07/c0/3134443_1267900790753_1024x1024soft.jpg "this is a web photo")
 
 
 
-There seems to be no difference between the two pictures. But it doesn't matter.
+
 
 ```Python
 # This is a simple "Hello world" python code snippet
@@ -25,17 +26,17 @@ print("Hello world!")
 ```
 
 This is a bulleted list.
-* aha!
-* yahaha!
-* aluoyaha!
+* a
+* b
+* c
 
 This is a numbered list.
-1. xi!
-2. xixi!
-3. xixiha!
+1. d
+2. e
+3. f
 
 This is a table.
-fruit|fruit|a lot of fruit
+apple|branana|peach
 :---:|:---:|:---:
 orange|tangerine|grapefruit
 
@@ -50,4 +51,4 @@ orange|tangerine|grapefruit
 ----
 ****
 
-That's all. Have a good day!
+
