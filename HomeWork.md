@@ -15,9 +15,9 @@ If you want to go back to homepage, you can click **"click here"** which is on t
 
 ![pic1](picture1.png "this is my desktop")
 
-![pic2](https://www.zzcjxy.com/content/uploadfile/202008/9ad41598809156.png "this is a web photo")
 
-emmm...There seems to be no difference between the two pictures. But it doesn't matter.
+
+There seems to be no difference between the two pictures. But it doesn't matter.
 
 ```Python
 # This is a simple "Hello world" python code snippet
